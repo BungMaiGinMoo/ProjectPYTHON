@@ -1,0 +1,32 @@
+{
+    "E01": {
+        "course": "English 1",
+        "time(hr)": "10",
+        "price": "3000"
+    },
+    "E02": {
+        "course": "English 2",
+        "time(hr)": "15",
+        "price": "5000"
+    },
+    "E03": {
+        "course": "English 3",
+        "time(hr)": "25",
+        "price": "6000"
+    },
+    "M01": {
+        "course": "Math 1",
+        "time(hr)": "10",
+        "price": "4000"
+    },
+    "M02": {
+        "course": "Math 2",
+        "time(hr)": "15",
+        "price": "5000"
+    },
+    "M03": {
+        "course": "Math 3",
+        "time(hr)": "50",
+        "price": "5000"
+    }
+}

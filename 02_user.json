@@ -1,0 +1,35 @@
+{
+    "Jaolucky": {
+        "fname": "Julalak",
+        "lname": "Tongdeenok",
+        "nickname": "Lucky",
+        "email": "lakjulalak46@gmail.com",
+        "phoneNumber": "0834463774",
+        "password": "Jaolucky_03",
+        "isAdmin": true,
+        "subject": []
+    },
+    "Kuyrai": {
+        "fname": "Bago",
+        "lname": "Kuyrai",
+        "nickname": "Kuyrai",
+        "email": "Kuyrai119@gmail.com",
+        "phoneNumber": "0872277484",
+        "password": "Kuyrai_03",
+        "isAdmin": false,
+        "subject": [
+            "E01",
+            "M03"
+        ]
+    },
+    "YammyQgrl": {
+        "fname": "Artjima",
+        "lname": "Srichai",
+        "nickname": "Yam",
+        "email": "Yam131@gmail.com",
+        "phoneNumber": "0902290879",
+        "password": "Yamboom_2003",
+        "isAdmin": false,
+        "subject": []
+    }
+}
